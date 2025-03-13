@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/egecagankantar/Developer/photo-ascii-generator/build",
+  "command": "/usr/bin/clang  -I/Users/egecagankantar/Developer/photo-ascii-generator/src -I/Users/egecagankantar/Developer/photo-ascii-generator/libs -g -std=gnu17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/generator.dir/src/main.c.o -c /Users/egecagankantar/Developer/photo-ascii-generator/src/main.c",
+  "file": "/Users/egecagankantar/Developer/photo-ascii-generator/src/main.c",
+  "output": "CMakeFiles/generator.dir/src/main.c.o"
+},
+{
+  "directory": "/Users/egecagankantar/Developer/photo-ascii-generator/build",
+  "command": "/usr/bin/clang  -I/Users/egecagankantar/Developer/photo-ascii-generator/src -I/Users/egecagankantar/Developer/photo-ascii-generator/libs -g -std=gnu17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/generator.dir/src/img_reader.c.o -c /Users/egecagankantar/Developer/photo-ascii-generator/src/img_reader.c",
+  "file": "/Users/egecagankantar/Developer/photo-ascii-generator/src/img_reader.c",
+  "output": "CMakeFiles/generator.dir/src/img_reader.c.o"
+},
+{
+  "directory": "/Users/egecagankantar/Developer/photo-ascii-generator/build",
+  "command": "/usr/bin/clang  -I/Users/egecagankantar/Developer/photo-ascii-generator/src -I/Users/egecagankantar/Developer/photo-ascii-generator/libs -g -std=gnu17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/generator.dir/src/img_writer.c.o -c /Users/egecagankantar/Developer/photo-ascii-generator/src/img_writer.c",
+  "file": "/Users/egecagankantar/Developer/photo-ascii-generator/src/img_writer.c",
+  "output": "CMakeFiles/generator.dir/src/img_writer.c.o"
+}
+]

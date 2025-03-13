@@ -1,0 +1,3 @@
+/Users/egecagankantar/Developer/photo-ascii-generator/build/CMakeFiles/generator.dir
+/Users/egecagankantar/Developer/photo-ascii-generator/build/CMakeFiles/edit_cache.dir
+/Users/egecagankantar/Developer/photo-ascii-generator/build/CMakeFiles/rebuild_cache.dir
